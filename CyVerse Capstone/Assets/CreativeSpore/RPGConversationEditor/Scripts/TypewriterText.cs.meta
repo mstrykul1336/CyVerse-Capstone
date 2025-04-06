@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c2b800bfbb74f1f43baf606d1dbc5372
+timeCreated: 1510218430
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Scripts/TypewriterText.cs
+  uploadId: 257926

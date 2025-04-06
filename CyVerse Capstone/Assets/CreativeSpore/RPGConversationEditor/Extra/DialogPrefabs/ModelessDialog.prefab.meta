@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10ea32e33116f934ebc4713f83051547
+timeCreated: 1520872421
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/DialogPrefabs/ModelessDialog.prefab
+  uploadId: 257926

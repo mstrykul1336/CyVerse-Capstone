@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06b3cefc386776f44bade6de74376aab
+timeCreated: 1517224102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/DialogPrefabs/DialogScaleOut.anim
+  uploadId: 257926

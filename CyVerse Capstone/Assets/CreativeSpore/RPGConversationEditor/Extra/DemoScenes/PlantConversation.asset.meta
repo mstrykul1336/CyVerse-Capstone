@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6d886ed96022d14aba195a7d9a742b8
+timeCreated: 1522253581
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/DemoScenes/PlantConversation.asset
+  uploadId: 257926

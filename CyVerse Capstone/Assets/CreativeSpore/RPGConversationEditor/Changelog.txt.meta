@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd103f4f1a0ec8a4f9769325f0163f00
+timeCreated: 1530092529
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Changelog.txt
+  uploadId: 257926

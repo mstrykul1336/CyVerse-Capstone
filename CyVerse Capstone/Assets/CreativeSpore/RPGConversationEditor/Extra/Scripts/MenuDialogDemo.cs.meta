@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7778688264f70294488bcfa5bc2755bd
+timeCreated: 1524045151
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Scripts/MenuDialogDemo.cs
+  uploadId: 257926

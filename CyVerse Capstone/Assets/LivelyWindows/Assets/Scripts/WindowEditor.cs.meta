@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4f92ce16587d0a649abb7172a90d213c
+timeCreated: 1501682968
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97422
+  packageName: Lively Windows
+  packageVersion: 1.0
+  assetPath: Assets/LivelyWindows/Assets/Scripts/WindowEditor.cs
+  uploadId: 195348

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fb02e5152ea29e41a0aca467394dd4c
+timeCreated: 1524050343
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Sounds/License_MenuSelectionClick.txt
+  uploadId: 257926

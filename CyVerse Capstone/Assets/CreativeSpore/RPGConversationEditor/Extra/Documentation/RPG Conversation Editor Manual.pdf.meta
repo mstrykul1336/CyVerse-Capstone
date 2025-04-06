@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cd176f018b68aa43a578c5b5be2418d
+timeCreated: 1525348743
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Documentation/RPG Conversation
+    Editor Manual.pdf
+  uploadId: 257926

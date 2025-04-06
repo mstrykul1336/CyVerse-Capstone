@@ -1,0 +1,694 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.44f1 (101c91f3a8fb) revision 1055889'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 32686 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.44f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+D:/CyVerse Capstone
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+62152
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/CyVerse Capstone
+D:/CyVerse Capstone
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [6308]  Target information:
+
+Player connection [6308]  * "[IP] 192.168.0.58 [Port] 0 [Flags] 2 [Guid] 769608409 [EditorId] 769608409 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9U2DB69) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6308]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 769608409 [EditorId] 769608409 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9U2DB69) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6308] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [6308] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/CyVerse Capstone/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   NVIDIA
+    VRAM:     3930 MB
+    Driver:   32.0.15.7216
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003204 seconds.
+- Loaded All Assemblies, in  0.407 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.309 seconds
+Domain Reload Profiling: 712ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (55ms)
+	LoadAllAssembliesAndSetupDomain (169ms)
+		LoadAssemblies (121ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (166ms)
+				TypeCache.ScanAssembly (152ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (309ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (261ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.727 seconds
+Refreshing native plugins compatible for Editor in 1.40 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.698 seconds
+Domain Reload Profiling: 1422ms
+	BeginReloadAssembly (153ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (481ms)
+		LoadAssemblies (322ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (250ms)
+			TypeCache.Refresh (184ms)
+				TypeCache.ScanAssembly (170ms)
+			BuildScriptInfoCaches (52ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (699ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (559ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (107ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.29 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 220 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6604 unused Assets / (7.4 MB). Loaded Objects now: 7264.
+Memory consumption went from 183.0 MB to 175.6 MB.
+Total: 10.111700 ms (FindLiveObjects: 0.790100 ms CreateObjectMapping: 1.199800 ms MarkObjects: 4.527600 ms  DeleteObjects: 3.593400 ms)
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.672 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.715 seconds
+Domain Reload Profiling: 1386ms
+	BeginReloadAssembly (194ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (405ms)
+		LoadAssemblies (318ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (181ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (715ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (526ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (111ms)
+			ProcessInitializeOnLoadAttributes (334ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 2.42 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6602 unused Assets / (7.4 MB). Loaded Objects now: 7267.
+Memory consumption went from 156.0 MB to 148.6 MB.
+Total: 14.681900 ms (FindLiveObjects: 0.898500 ms CreateObjectMapping: 1.565800 ms MarkObjects: 7.083100 ms  DeleteObjects: 5.133600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.684 seconds
+Refreshing native plugins compatible for Editor in 1.61 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.718 seconds
+Domain Reload Profiling: 1401ms
+	BeginReloadAssembly (182ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (425ms)
+		LoadAssemblies (296ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (218ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (197ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (718ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (531ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (107ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 2.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 40 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6602 unused Assets / (7.4 MB). Loaded Objects now: 7269.
+Memory consumption went from 156.0 MB to 148.5 MB.
+Total: 14.484100 ms (FindLiveObjects: 0.916100 ms CreateObjectMapping: 1.382900 ms MarkObjects: 6.797500 ms  DeleteObjects: 5.386400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 22839.831881 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_189.asset
+  artifactKey: Guid(b0ad7c81270a46346bdb4926471ff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_189.asset using Guid(b0ad7c81270a46346bdb4926471ff1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99858486e5206a5506379b79e3000a58') in 0.097762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_201.asset
+  artifactKey: Guid(44f332464171f894488fdc7a94f52650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_201.asset using Guid(44f332464171f894488fdc7a94f52650) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '372bd5aebe902b262834edb42ca7fb63') in 0.0129503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_205.asset
+  artifactKey: Guid(c5eb1603de210b14784c64f705592081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_205.asset using Guid(c5eb1603de210b14784c64f705592081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59ead6eb5b3f206528a5fe9b8e2688e7') in 0.0116499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_216.asset
+  artifactKey: Guid(c092f173aa784e04596e96a678b02c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_216.asset using Guid(c092f173aa784e04596e96a678b02c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45d846be0601330bf1d5b54a5dd653b6') in 0.0118662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_217.asset
+  artifactKey: Guid(022e9e8dc7df89b4c9a28182d38ca68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_217.asset using Guid(022e9e8dc7df89b4c9a28182d38ca68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f2f365319ead60ca96e758c0f48af12') in 0.0312247 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_207.asset
+  artifactKey: Guid(810d42d260ab56440be3a10571a766c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_207.asset using Guid(810d42d260ab56440be3a10571a766c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1bab54ecb2e22119d454d2768d39fa9c') in 0.0207849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_212.asset
+  artifactKey: Guid(e6280f4ff9e2f634ea1840d936978d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_212.asset using Guid(e6280f4ff9e2f634ea1840d936978d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12e11aff911824033e186009d93ef387') in 0.0099101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_221.asset
+  artifactKey: Guid(1ecaf562a6c8dca46ab4848f9b17b995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_221.asset using Guid(1ecaf562a6c8dca46ab4848f9b17b995) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1e1148bbe0ed66ee1b11be95740ee537') in 0.0100119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_213.asset
+  artifactKey: Guid(dfb87ea6486686a43bfb43488c0f6098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_213.asset using Guid(dfb87ea6486686a43bfb43488c0f6098) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fb2fba4d1d900bc2d19d5d6b0673bb2') in 0.012572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_202.asset
+  artifactKey: Guid(9197022ca0969df438c3b61501029492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_202.asset using Guid(9197022ca0969df438c3b61501029492) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8960b3c681fea167df3372638e9b09de') in 0.0108017 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_190.asset
+  artifactKey: Guid(63acc0ea3830d474ea6cb14252a120d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_190.asset using Guid(63acc0ea3830d474ea6cb14252a120d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6b945b49cfce110636dd47e98a7f3065') in 0.0108387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_209.asset
+  artifactKey: Guid(9f3843d580082a847b4cc7eac86b9010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_209.asset using Guid(9f3843d580082a847b4cc7eac86b9010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f99e4d5c01472b5642236b88d1f53de') in 0.0107315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_215.asset
+  artifactKey: Guid(7cb13b8a15b19934fa3605887a56ef34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_215.asset using Guid(7cb13b8a15b19934fa3605887a56ef34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8e4bfc98b485afb2b7d082f6e03394f') in 0.0103258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_192.asset
+  artifactKey: Guid(6e3f3fe0343f12a48b794bd92e04cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_192.asset using Guid(6e3f3fe0343f12a48b794bd92e04cb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bccdc397deedb2e2ca47cbfe5864a4ae') in 0.0107238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_206.asset
+  artifactKey: Guid(d6caa122e92e43747b3808a797c7be40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_206.asset using Guid(d6caa122e92e43747b3808a797c7be40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0a5989b5a93567bb6026a2bfb642ea5') in 0.0107138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_208.asset
+  artifactKey: Guid(978fa1e3fddeb5c44963121f855c04da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_208.asset using Guid(978fa1e3fddeb5c44963121f855c04da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c04411117522c4ba75e2a042cb514e8b') in 0.0111711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.794679 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_223.asset
+  artifactKey: Guid(d3951152f557d1841929b871521acdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_223.asset using Guid(d3951152f557d1841929b871521acdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '941f3ad22672c9c96070f4206dc348f7') in 0.0106949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_226.asset
+  artifactKey: Guid(b8989f40017b4344291394f9ab126c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_226.asset using Guid(b8989f40017b4344291394f9ab126c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca61499583b14d678756123caa09c9d8') in 0.0108499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_228.asset
+  artifactKey: Guid(606ed6b69acbd3441ac28df498ac41a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_228.asset using Guid(606ed6b69acbd3441ac28df498ac41a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12aa6e3a1502f8ab4bf2814973225297') in 0.010664 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_232.asset
+  artifactKey: Guid(04cec4686816c6149a8203bc0743ca4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_232.asset using Guid(04cec4686816c6149a8203bc0743ca4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0857bd7c567a8ee32492f1a604628f9') in 0.0129714 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_230.asset
+  artifactKey: Guid(4831e8982b819124287d6efb20099124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_230.asset using Guid(4831e8982b819124287d6efb20099124) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73e0ace41eaef54aa619b7b5025ad283') in 0.0122144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_231.asset
+  artifactKey: Guid(00614b7232baee9488eb99efa89c81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_231.asset using Guid(00614b7232baee9488eb99efa89c81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '773b096173fb335e9e85b6309689e866') in 0.0114233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_238.asset
+  artifactKey: Guid(904839f0fa96a19438a3abb8755e6b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_238.asset using Guid(904839f0fa96a19438a3abb8755e6b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6be799a7cacd4a22907a2dc5a3dde3ea') in 0.0121084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_237.asset
+  artifactKey: Guid(8d48a57056355034bb5e91d0cab3ba8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_237.asset using Guid(8d48a57056355034bb5e91d0cab3ba8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f59fc49fdd91cd514b8c151867ce1297') in 0.0131566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_229.asset
+  artifactKey: Guid(1fa0873720566ba468055bfb91d7fa02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_229.asset using Guid(1fa0873720566ba468055bfb91d7fa02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0685e915e11b8002616ffa1c2b0a342') in 0.0121466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.356198 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_242.asset
+  artifactKey: Guid(d9d76121ecef0ce42aca41ade28c60c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_242.asset using Guid(d9d76121ecef0ce42aca41ade28c60c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f21b4cfa0d14047ecd3508fb125c45f9') in 0.0148691 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_244.asset
+  artifactKey: Guid(1ba7e81094d746544a7fc47f527b3f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_244.asset using Guid(1ba7e81094d746544a7fc47f527b3f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9606f71fc6110ff648cdccee09c9dd1a') in 0.0106916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_250.asset
+  artifactKey: Guid(599fc81efc83d2440af3e5e1320171ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_250.asset using Guid(599fc81efc83d2440af3e5e1320171ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5eb5d29310496592f2f336a8335755bb') in 0.0110435 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_251.asset
+  artifactKey: Guid(aaa08c5cad4e15a4eba79f995ec4855b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_251.asset using Guid(aaa08c5cad4e15a4eba79f995ec4855b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc81e33e369415cc33d817dd88d6e67a') in 0.0106134 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_255.asset
+  artifactKey: Guid(1af67c18ffd573646bd5a7807a5a1d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_255.asset using Guid(1af67c18ffd573646bd5a7807a5a1d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ccca418cccae34c65c5f5154aabb8799') in 0.0113682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_269.asset
+  artifactKey: Guid(4a230588274016e468a9b57fb0f44203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_269.asset using Guid(4a230588274016e468a9b57fb0f44203) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da8ca529b26a1c5fe435c18a3d60d1d5') in 0.01131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_271.asset
+  artifactKey: Guid(ea5a3cefb54496e468b2a2f25089b239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_271.asset using Guid(ea5a3cefb54496e468b2a2f25089b239) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c61ceffa03449095e844d23820542836') in 0.0123012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_272.asset
+  artifactKey: Guid(c77a0a271c4ceba4e98ace7119c9e6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_272.asset using Guid(c77a0a271c4ceba4e98ace7119c9e6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e7e03a2fae8e0ded4fbc913b36c625c') in 0.0108461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_283.asset
+  artifactKey: Guid(b98520f3a27a3de40bc424fba1773442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_283.asset using Guid(b98520f3a27a3de40bc424fba1773442) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4680a89991f712a224345dc95d27e0bb') in 0.0143018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_291.asset
+  artifactKey: Guid(e9d233ee8728132489a280b42c62216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_291.asset using Guid(e9d233ee8728132489a280b42c62216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4518f56cd73af92f32dad7cf390b66fe') in 0.0117204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_300.asset
+  artifactKey: Guid(75f20586c65784247a98cde9d31e26ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_300.asset using Guid(75f20586c65784247a98cde9d31e26ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd76d38ffafb41a0e4093f79ea3af88f9') in 0.0140775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_299.asset
+  artifactKey: Guid(046962c5869f0274a9182393833734a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_299.asset using Guid(046962c5869f0274a9182393833734a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11cb15ae228f130a80390a3d1a6acd55') in 0.0108644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_289.asset
+  artifactKey: Guid(3e82e00cbf82c7845a78fa91de004a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_289.asset using Guid(3e82e00cbf82c7845a78fa91de004a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2c9b64e9052b058c74b51e7bea762c0') in 0.0104423 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_263.asset
+  artifactKey: Guid(9c6f2f6c289ad8443b4b4b77b399871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_263.asset using Guid(9c6f2f6c289ad8443b4b4b77b399871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01007fbceaf55a1d52c8de628df94a94') in 0.0104731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_249.asset
+  artifactKey: Guid(57eed25466daba140b551f4e25b93098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_249.asset using Guid(57eed25466daba140b551f4e25b93098) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8fc20353d313f89914b369234995d469') in 0.0097719 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_290.asset
+  artifactKey: Guid(395fb04f969ecc84baf18393d5e35107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_290.asset using Guid(395fb04f969ecc84baf18393d5e35107) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '352c1bb47cb01f014810a7d1d51cc3df') in 0.0092858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_309.asset
+  artifactKey: Guid(17b63429c69e6e147861bae8e95c2f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_309.asset using Guid(17b63429c69e6e147861bae8e95c2f98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4006f032628ed5bd08ad79dbf51cfa13') in 0.0095667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_317.asset
+  artifactKey: Guid(199ba4dd21e37a543a08becda6a46c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_317.asset using Guid(199ba4dd21e37a543a08becda6a46c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f582028c19796bf2fe858166d2628c12') in 0.0099113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_323.asset
+  artifactKey: Guid(63d3640a809902b46ac2d3318c6ca883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_323.asset using Guid(63d3640a809902b46ac2d3318c6ca883) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f81e93a43653edf16eb76245c2ade707') in 0.0096141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_326.asset
+  artifactKey: Guid(b08013bdd9b041d4d85fc3504522e9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_326.asset using Guid(b08013bdd9b041d4d85fc3504522e9eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f56aae7eab11dc877030cc2e60bf7e1') in 0.0088726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_331.asset
+  artifactKey: Guid(9c1d79827b4e62c46ba1d44e64702ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_331.asset using Guid(9c1d79827b4e62c46ba1d44e64702ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7bbf1d92aa6110db3bfa330e2cc375ae') in 0.0097772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_338.asset
+  artifactKey: Guid(5f556a135d1efa447a7d82e22fbb1f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_338.asset using Guid(5f556a135d1efa447a7d82e22fbb1f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9fe3240de1fded808131467448cf727') in 0.0098978 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_340.asset
+  artifactKey: Guid(6f68d41d386f34c40aae34ad8d60f486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_340.asset using Guid(6f68d41d386f34c40aae34ad8d60f486) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69bff29f544ef5935bfe8b376877c45d') in 0.009173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_319.asset
+  artifactKey: Guid(d49dfdd66d540c04280ac2b67179b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_319.asset using Guid(d49dfdd66d540c04280ac2b67179b571) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e999ef7ea73a0a006afcf52a4fa5977f') in 0.0116176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_294.asset
+  artifactKey: Guid(9f631dd74dff1054fa95f80dfc79cc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_294.asset using Guid(9f631dd74dff1054fa95f80dfc79cc9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7927be25a5790654b8c8995c63da6317') in 0.0101409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_276.asset
+  artifactKey: Guid(861f6ed21c1301544ac38c39f2cd2b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/JRPG Character Pack/Tiles/Tilemap_276.asset using Guid(861f6ed21c1301544ac38c39f2cd2b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d0d6fc8813dc475a13878675c99af1a') in 0.0111364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,438 @@
+Using pre-set license
+Built from '6000.0/release' branch; Version is '6000.0.44f1 (101c91f3a8fb) revision 1055889'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 32686 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.44f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/CyVerse Capstone
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62152
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/CyVerse Capstone
+D:/CyVerse Capstone
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5880]  Target information:
+
+Player connection [5880]  * "[IP] 192.168.0.58 [Port] 0 [Flags] 2 [Guid] 1710245651 [EditorId] 1710245651 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9U2DB69) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5880]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1710245651 [EditorId] 1710245651 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-9U2DB69) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5880] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [5880] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.44f1 (101c91f3a8fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/CyVerse Capstone/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   NVIDIA
+    VRAM:     3930 MB
+    Driver:   32.0.15.7216
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002720 seconds.
+- Loaded All Assemblies, in  0.387 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.315 seconds
+Domain Reload Profiling: 700ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (157ms)
+		LoadAssemblies (122ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (140ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (316ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (283ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (138ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.775 seconds
+Refreshing native plugins compatible for Editor in 1.44 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.759 seconds
+Domain Reload Profiling: 1530ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (515ms)
+		LoadAssemblies (342ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (199ms)
+				TypeCache.ScanAssembly (183ms)
+			BuildScriptInfoCaches (62ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (759ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (614ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (378ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.44 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 220 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6604 unused Assets / (7.8 MB). Loaded Objects now: 7264.
+Memory consumption went from 179.2 MB to 171.4 MB.
+Total: 15.317500 ms (FindLiveObjects: 0.915400 ms CreateObjectMapping: 1.291100 ms MarkObjects: 7.419500 ms  DeleteObjects: 5.690400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19620.381140 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior
+  artifactKey: Guid(0b960a79537945a4c8ead57793a5bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior using Guid(0b960a79537945a4c8ead57793a5bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d655ce8669ed42b0b3a031f4e3645fb') in 0.0043939 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.329551 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior/Tilemap
+  artifactKey: Guid(8115ce2b26902544cafe63735bf3d68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior/Tilemap using Guid(8115ce2b26902544cafe63735bf3d68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8178bd2b1810a84e2d55e6a5345a1a7') in 0.0004544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052672 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior/Tilemap/MainTileMap.png
+  artifactKey: Guid(d4463ff889ef5a140a5e97a81e0a26d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior/Tilemap/MainTileMap.png using Guid(d4463ff889ef5a140a5e97a81e0a26d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db48bb19ccaa9a7656a24020d8bc07bb') in 1.2687461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 911
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.279711 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior/Tiles
+  artifactKey: Guid(b50141d6155b9d7408e19ca26982338d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior/Tiles using Guid(b50141d6155b9d7408e19ca26982338d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce9acf05aa530c017d2fd48cc1dabd31') in 0.0004477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.502063 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior/Demo
+  artifactKey: Guid(39d2e257ccd15364282efe7f896cbef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior/Demo using Guid(39d2e257ccd15364282efe7f896cbef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8692c980bfe12b4e17f4629d5b681f4') in 0.0005565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.724307 seconds.
+  path: Assets/Gutty Kreum/Japanese Office Interior/Demo/SampleScene.unity
+  artifactKey: Guid(29be7e3bd062b594d96c37dffda682d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gutty Kreum/Japanese Office Interior/Demo/SampleScene.unity using Guid(29be7e3bd062b594d96c37dffda682d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8b44b92d0e552ddb316fd277eb99c7f') in 0.0004249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.701863 seconds.
+  path: Assets/Demo/Game 1.unity
+  artifactKey: Guid(b9d5f82f496d8dc458ef0f8f2785c729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/Game 1.unity using Guid(b9d5f82f496d8dc458ef0f8f2785c729) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5cde38214e851c950e00fd18306deb91') in 0.0003944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.590885 seconds.
+  path: Assets/PixelPackTOPDOWN8BIT.png
+  artifactKey: Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPackTOPDOWN8BIT.png using Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c70dbebd38a7c8f83cd60d1b484e1fc') in 0.0138869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.415350 seconds.
+  path: Assets/PixelPackTOPDOWN8BIT.png
+  artifactKey: Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPackTOPDOWN8BIT.png using Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '35365876ada5585b2ab959af7b4cf0d0') in 0.0151317 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.523395 seconds.
+  path: Assets/PixelPackTOPDOWN8BIT.png
+  artifactKey: Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPackTOPDOWN8BIT.png using Guid(575a133a1be88d348a099abec9c443f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17fd29226623c4090b4fcfa92cc8947b') in 0.0160794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 156.616987 seconds.
+  path: Assets/PixelPackTOPDOWN8BIT_0.asset
+  artifactKey: Guid(d3aafa0479adb6c43b8837909b33b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelPackTOPDOWN8BIT_0.asset using Guid(d3aafa0479adb6c43b8837909b33b1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90f5368bbf460576b6129ee89933c66d') in 0.0157519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.942710 seconds.
+  path: Assets/Lil Dragon TS
+  artifactKey: Guid(2bfb99a7fe8165947a0bf9005eb8fe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS using Guid(2bfb99a7fe8165947a0bf9005eb8fe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2a1602bbf020666e40cee8d9a60cd5d') in 0.0004672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.268234 seconds.
+  path: Assets/Lil Dragon TS 1
+  artifactKey: Guid(4a6ca7e2decdb9449a18196bb71f6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1 using Guid(4a6ca7e2decdb9449a18196bb71f6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f694f93eb42e3a924918b30ce5584640') in 0.0004484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Lil Dragon TS 1/autoTile_nature.png
+  artifactKey: Guid(dd59c01d364726d4583575ae6cd72991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/autoTile_nature.png using Guid(dd59c01d364726d4583575ae6cd72991) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6fef22b41b1069c80e4a2410c8eda93') in 0.0167107 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Lil Dragon TS 1/ts_outerworld.png
+  artifactKey: Guid(c6177cebafa7b0d488b859fbbb77f74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/ts_outerworld.png using Guid(c6177cebafa7b0d488b859fbbb77f74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '414bc5a4a70e0db7f96530c9b4e3c2b5') in 0.0149976 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Lil Dragon TS 1/ts_interiorDecorations.png
+  artifactKey: Guid(3569efaa3041a51468e07669e67f07f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/ts_interiorDecorations.png using Guid(3569efaa3041a51468e07669e67f07f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbdb12a0b7e57197f84a735ded2e06da') in 0.014894 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Lil Dragon TS 1/ts_castle.png
+  artifactKey: Guid(11b70c1896c7ad94989f82b7f3b0bbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/ts_castle.png using Guid(11b70c1896c7ad94989f82b7f3b0bbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bc3339d6caf5f29ef9137b3d5d5190a') in 0.0150787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.979250 seconds.
+  path: Assets/Lil Dragon TS 1/Characters
+  artifactKey: Guid(72ac5796ba61e734cb850457e5190335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters using Guid(72ac5796ba61e734cb850457e5190335) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c588983ef5f20d88963ef138ba53bb1') in 0.0004357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061954 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/blue_slime.png
+  artifactKey: Guid(2673b836a45807645988b877e0264467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/blue_slime.png using Guid(2673b836a45807645988b877e0264467) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f92571f7cb8b7a69eb73f475747989c') in 0.0114438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/yellow_slime.png
+  artifactKey: Guid(8e03d9baea72dc04283de4adfb79cc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/yellow_slime.png using Guid(8e03d9baea72dc04283de4adfb79cc9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9989902cd85f5f3571e3f0989ef6234b') in 0.0103443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_03.png
+  artifactKey: Guid(fe11dd6a2efe06b40b059fc767e13854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_03.png using Guid(fe11dd6a2efe06b40b059fc767e13854) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7056085e2f07c484d5d201877e23b1f9') in 0.0121651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_06.png
+  artifactKey: Guid(227820ebae2366f4f991b26f3a20509d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_06.png using Guid(227820ebae2366f4f991b26f3a20509d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb16d3adabbef411edb00490ad322ac7') in 0.0114218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_alex.png
+  artifactKey: Guid(c81c45661885e00469aa099f60deeec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_alex.png using Guid(c81c45661885e00469aa099f60deeec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '482da380050c2be69dea8b59473267fd') in 0.0110622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_07.png
+  artifactKey: Guid(14a242987cdad6543b0c65c95b7eafd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_07.png using Guid(14a242987cdad6543b0c65c95b7eafd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78820dd11e1efddad8fe1d0c3eacc0eb') in 0.010986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_knight_02.png
+  artifactKey: Guid(0b01a6c7e134b2b4ca1213d21a5e3d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_knight_02.png using Guid(0b01a6c7e134b2b4ca1213d21a5e3d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4db3e507161d97d129a2e0f7c93d82fc') in 0.0125214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Lil Dragon TS 1/Characters/char_knight_01.png
+  artifactKey: Guid(f4c685aea54899c48985457e73333010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/Characters/char_knight_01.png using Guid(f4c685aea54899c48985457e73333010) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5797916df2744fdd33764ec8597bf840') in 0.0114309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.148496 seconds.
+  path: Assets/Lil Dragon TS 1/LittleDragom.prefab
+  artifactKey: Guid(c4e8125364b678a4d876297e68502d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lil Dragon TS 1/LittleDragom.prefab using Guid(c4e8125364b678a4d876297e68502d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '813bcd76b78726ef3af0790591cd6d75') in 0.3928622 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.281774 seconds.
+  path: Assets/ts_outerworld_0.asset
+  artifactKey: Guid(28853ab224f4d244fa9658f6776609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ts_outerworld_0.asset using Guid(28853ab224f4d244fa9658f6776609ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '105d72cdd8f5bc3ec2e917d5ab34cd9c') in 0.012274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ts_outerworld_2.asset
+  artifactKey: Guid(31f731104e02a3240a64057dd9a35cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ts_outerworld_2.asset using Guid(31f731104e02a3240a64057dd9a35cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d24cf0ad10986476b6caa7013184f29') in 0.0099242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/ts_outerworld_1.asset
+  artifactKey: Guid(8ef17b8c6cb4af94ba1e6cd6031e8e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ts_outerworld_1.asset using Guid(8ef17b8c6cb4af94ba1e6cd6031e8e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4fd4ce925600bb8a23b56a97676334f4') in 0.0108554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/ts_outerworld_4.asset
+  artifactKey: Guid(99df5cab18d437341b3d9c3c86889585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ts_outerworld_4.asset using Guid(99df5cab18d437341b3d9c3c86889585) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a08dd0299d16d84dc09470f4167e5c2') in 0.0101865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

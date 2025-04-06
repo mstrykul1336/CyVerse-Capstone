@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2520acb3e7ec3c40bf90bc58b711ac6
+timeCreated: 1526886551
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Gfx/License_HouseInterior.txt
+  uploadId: 257926

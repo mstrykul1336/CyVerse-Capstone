@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00f38a4d9259b814aa993cc6c3366ad6
+timeCreated: 1502392490
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97422
+  packageName: Lively Windows
+  packageVersion: 1.0
+  assetPath: Assets/LivelyWindows/Assets/Prefabs/CursorSystem.prefab
+  uploadId: 195348

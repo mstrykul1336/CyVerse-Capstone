@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: afa9b712efa41d84abd69740480111cb
+timeCreated: 1502316191
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97422
+  packageName: Lively Windows
+  packageVersion: 1.0
+  assetPath: Assets/LivelyWindows/Assets/Prefabs/Frame7.prefab
+  uploadId: 195348

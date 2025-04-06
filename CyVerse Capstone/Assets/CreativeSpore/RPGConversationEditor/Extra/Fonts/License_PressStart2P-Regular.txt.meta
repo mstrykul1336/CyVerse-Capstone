@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7a109f2357f72345aedd9d04c6f2d19
+timeCreated: 1521128153
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Fonts/License_PressStart2P-Regular.txt
+  uploadId: 257926

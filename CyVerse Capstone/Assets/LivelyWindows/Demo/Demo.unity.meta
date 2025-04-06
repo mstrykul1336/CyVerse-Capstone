@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9ee9752a87835a47bc37205d9b812b9
+timeCreated: 1501682967
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97422
+  packageName: Lively Windows
+  packageVersion: 1.0
+  assetPath: Assets/LivelyWindows/Demo/Demo.unity
+  uploadId: 195348

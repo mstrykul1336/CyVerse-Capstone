@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1516115175234262}
+  m_IsPrefabParent: 1
+--- !u!1 &1516115175234262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4970991731963098}
+  - component: {fileID: 114385916161337040}
+  m_Layer: 0
+  m_Name: CursorSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4970991731963098
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1516115175234262}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114385916161337040
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1516115175234262}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b55489167fb344b8fec67ae6724559, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Info:
+  - Name: Arrow
+    Texture: {fileID: 2800000, guid: a208700f968f4b94c9e0a95b10b9e9a8, type: 3}
+    Hotspot: {x: 0, y: 0}
+  - Name: ResizeNS
+    Texture: {fileID: 2800000, guid: 2b16c6a80623c0349b08ff0e45e06753, type: 3}
+    Hotspot: {x: 4, y: 11}
+  - Name: ResizeWE
+    Texture: {fileID: 2800000, guid: bd84da4e3017bd84dae09649da4c88b3, type: 3}
+    Hotspot: {x: 11, y: 4}
+  - Name: ResizeNWSE
+    Texture: {fileID: 2800000, guid: 25b8019b7bef97043895de1bd91596dc, type: 3}
+    Hotspot: {x: 8, y: 8}
+  - Name: ResizeNESW
+    Texture: {fileID: 2800000, guid: 531aa58f5021988418291d703190d39f, type: 3}
+    Hotspot: {x: 8, y: 8}
+  - Name: Move
+    Texture: {fileID: 2800000, guid: d5a3d028da3cb064ea6fd89529251f95, type: 3}
+    Hotspot: {x: 11, y: 11}

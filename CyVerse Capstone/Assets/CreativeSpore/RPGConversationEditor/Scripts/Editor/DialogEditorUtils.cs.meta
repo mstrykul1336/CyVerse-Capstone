@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 349eaa7a9162f334ab12800b883ebe26
+timeCreated: 1509306985
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Scripts/Editor/DialogEditorUtils.cs
+  uploadId: 257926

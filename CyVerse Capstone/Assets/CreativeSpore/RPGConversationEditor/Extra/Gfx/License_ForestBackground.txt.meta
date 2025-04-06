@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5eac4c312dd589a4f86366040463726e
+timeCreated: 1522159686
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/Gfx/License_ForestBackground.txt
+  uploadId: 257926

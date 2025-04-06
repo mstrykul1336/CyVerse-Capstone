@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bd5b070c97fc984088b1ef8351fc939
+timeCreated: 1518030370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/DialogPrefabs/(ScreenSpace)ResizableDialogAnimated.prefab
+  uploadId: 257926

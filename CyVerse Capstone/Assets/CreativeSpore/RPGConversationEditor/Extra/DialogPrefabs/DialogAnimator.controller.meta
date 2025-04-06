@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bb500c751ede4f4586a6b042d25724d
+timeCreated: 1517221856
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117849
+  packageName: RPG Conversation/Dialogue Editor
+  packageVersion: 1.2.0
+  assetPath: Assets/CreativeSpore/RPGConversationEditor/Extra/DialogPrefabs/DialogAnimator.controller
+  uploadId: 257926

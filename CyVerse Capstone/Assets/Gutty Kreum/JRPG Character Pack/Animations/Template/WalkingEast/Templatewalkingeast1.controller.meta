@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed16bd49307a32f478ba4c32a3c02625
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201028
+  packageName: 'The Japan Collection: JRPG Characters Pack'
+  packageVersion: 2
+  assetPath: Assets/Gutty Kreum/JRPG Character Pack/Animations/Template/WalkingEast/Templatewalkingeast1.controller
+  uploadId: 673322
